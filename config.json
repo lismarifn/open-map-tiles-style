@@ -8,25 +8,25 @@
   },
   "styles": {
     "fiord-color": {
-      "style": "fiord-color-gl-style/style.json",
+      "style": "fiord/style.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "positron": {
-      "style": "positron-gl-style/style.json",
+      "style": "positron/style.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "positron-no-background": {
-      "style": "positron-gl-style/style-no-background.json",
+      "style": "positron/style-no-background.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "fiord-no-background": {
-      "style": "fiord-color-gl-style/style-no-background.json",
+      "style": "fiord/style-no-background.json",
       "tilejson": {
         "type": "overlay"
       }
