@@ -8,73 +8,73 @@
   },
   "styles": {
     "fiord-color": {
-      "style": "fiord/style.json",
+      "style": "open-map-tiles-style/fiord/style.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "positron": {
-      "style": "positron/style.json",
+      "style": "open-map-tiles-style/positron/style.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "positron-no-background": {
-      "style": "positron/style-no-background.json",
+      "style": "open-map-tiles-style/positron/style-no-background.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "fiord-no-background": {
-      "style": "fiord/style-no-background.json",
+      "style": "open-map-tiles-style/fiord/style-no-background.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "pois-hospital": {
-      "style": "pois/hospital.json",
+      "style": "open-map-tiles-style/pois/hospital.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "pois-park": {
-      "style": "pois/park.json",
+      "style": "open-map-tiles-style/pois/park.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "pois-restaurant": {
-      "style": "pois/restaurant.json",
+      "style": "open-map-tiles-style/pois/restaurant.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "pois-all": {
-      "style": "pois/style.json",
+      "style": "open-map-tiles-style/pois/style.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "pois-bank": {
-      "style": "pois/bank.json",
+      "style": "open-map-tiles-style/pois/bank.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "pois-supermarket": {
-      "style": "pois/supermarket.json",
+      "style": "open-map-tiles-style/pois/supermarket.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "pois-school": {
-      "style": "pois/school.json",
+      "style": "open-map-tiles-style/pois/school.json",
       "tilejson": {
         "type": "overlay"
       }
     },
     "pois-store": {
-      "style": "pois/store.json",
+      "style": "open-map-tiles-style/pois/store.json",
       "tilejson": {
         "type": "overlay"
       }
