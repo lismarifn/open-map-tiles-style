@@ -1,0 +1,88 @@
+{
+  "options": {
+    "paths": {
+      "fonts": "/data/fonts",
+      "sprites": "/build/style",
+      "styles": "/build/style"
+    }
+  },
+  "styles": {
+    "fiord-color": {
+      "style": "fiord-color-gl-style/style.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "positron": {
+      "style": "positron-gl-style/style.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "positron-no-background": {
+      "style": "positron-gl-style/style-no-background.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "fiord-no-background": {
+      "style": "fiord-color-gl-style/style-no-background.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "pois-hospital": {
+      "style": "pois/hospital.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "pois-park": {
+      "style": "pois/park.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "pois-restaurant": {
+      "style": "pois/restaurant.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "pois-all": {
+      "style": "pois/style.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "pois-bank": {
+      "style": "pois/bank.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "pois-supermarket": {
+      "style": "pois/supermarket.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "pois-school": {
+      "style": "pois/school.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "pois-store": {
+      "style": "pois/store.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    }
+  },
+  "data": {
+    "openmaptiles": {
+      "mbtiles": "/data/spain.mbtiles"
+    }
+  }
+}
