@@ -12,7 +12,7 @@
       "url": "mbtiles:///data/spain.mbtiles"
     }
   },
-  "sprite": "/pois/sprites/osm-liberty",
+  "sprite": "/open-map-tiles-style/pois/sprites/osm-liberty",
   "glyphs": "{fontstack}/{range}.pbf",
   "layers": [
     {
